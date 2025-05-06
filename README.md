@@ -1,7 +1,7 @@
 ## Hi there, I'm Therin. I'm a Data Scientist. 👋
 
 
-- 🔭 Currently working on...an MVP for an AI-enabled Interface for SEC EDGAR company filings, [journaling](https://mydatajournal.netlify.app/),  
+- 🔭 Currently working on...an MVP for an AI Chat Tool for SEC EDGAR company filings, [journaling](https://mydatajournal.netlify.app/),  
 - 🌱 I’m currently learning ...Neural pull (Neural radiance fields) for constructing 3-D point clouds from 2-D images 😃, Azure
 - 👯 I’m looking to collaborate on ... data mining and backend development tasks for AI startups
 - 🤔 I’m looking for help with ... tips for landing Data Scientist roles in the public and private sector
