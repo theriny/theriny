@@ -9,3 +9,5 @@
 - 📫 How to reach me: ... email or LinkedIn
 - ⚡ Fun fact: ... I play bass guitar.
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/therin229)
