@@ -1,7 +1,5 @@
 ## Hi there, I'm Therin. I'm a Data Scientist. 👋
 
-<!--
-**theriny/theriny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Currently working on...an MVP for an AI-enabled Interface for SEC EDGAR company filings, [journaling](https://mydatajournal.netlify.app/),  
 - 🌱 I’m currently learning ...Neural pull (Neural radiance fields) for constructing 3-D point clouds from 2-D images 😃, Azure
