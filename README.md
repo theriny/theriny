@@ -10,5 +10,5 @@
 - ⚡ Fun fact: ... I play bass guitar.
 
 
-Buy Me Coffee 🙂☕
+Buy Me Coffee, Please 🙂☕
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/therin229)
